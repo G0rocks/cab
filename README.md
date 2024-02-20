@@ -20,7 +20,9 @@ Currently to use this program you need to download the cab.exe file, save it to 
 Feel free to contribute to the project and make it better, add issues and such, this project is hosted here on github and anyone can contribute. Huldar is a busy person though so he might not respond right away or do the things you ask but you can always do them yourself and submit a pull request and if you really want, contact me about becoming a collaborator.
 
 ### Releases
-Releases are set up according to the way Kahan data studios explain in this video: https://www.youtube.com/watch?v=Ob9llA_QhQY
+Releases are based around a semantic versioning system.
+More on that here: https://semver.org/
+and a video explaining the concept here: https://www.youtube.com/watch?v=Ob9llA_QhQY
 
 ## Note about rlight
 Rlight
